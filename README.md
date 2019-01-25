@@ -22,4 +22,4 @@
 
 ###usage:###
 
-  python3 CreditCardNumberCheck.py <input value>
+  python3 CreditCardNumberCheck.py &lt; no of credit card numbers &gt;
